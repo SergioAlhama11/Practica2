@@ -1,7 +1,7 @@
 # Buscar alumno
 
-**ID:**005
-**Breve descripción:**El sistema permite buscar un alumno.
+**ID:** 005
+**Breve descripción:** El sistema permite buscar un alumno.
 
 **Actores principales:** Profesor.
 **Actores secundarios:** Alumno.
