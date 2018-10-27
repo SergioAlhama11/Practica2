@@ -1,6 +1,6 @@
 # Insertar Alumno
 
-**ID:**001
+**ID:** 001
 **Breve descripción:**El sistema permite insertar un alumno.
 
 **Actores principales:** Profesor.
