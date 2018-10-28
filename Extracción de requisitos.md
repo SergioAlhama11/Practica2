@@ -25,7 +25,7 @@ El profesor podrá almacenar todos los datos de sus alumnos en el sistema y mane
 
 
 
-#Requisitos Funcionales
+# Requisitos Funcionales
 
 El sistema pedirá la introducción de alumnos si es que no los hay. Al introducirlos se deben dar sus datos (Apellidos, Nombre, Dni, Contacto, Dirección, Curso matriculado más alto, Fecha nacimiento, Grupo, Condición de líder). Si éstos ya estaban introducidos, el sistema debe mostrar el error. La prioridad de insertar alumno será 1.
 
@@ -58,7 +58,7 @@ El sistema permitirá cargar un archivo exterior para implementarlo en el propio
 
 
 
-#Requisitos no Funcionales
+# Requisitos no Funcionales
 
 Debe ser un programa sencillo, cuyo menú sea manejable para una persona que desconozca totalmente el desarrollo del sistema.
 
